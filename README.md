@@ -140,7 +140,11 @@ cd game-day-notifications
 4. Integrating external APIs into cloud-based workflows.
 
 
-### **Future Enhancements**
-1. Add NFL score alerts for extended functionality.
-2. Store user preferences (teams, game types) in DynamoDB for personalized alerts.
-3. Implement a web UI
+### Added Terraform Code to setup SNS
+
+### Screenshots
+
+![Alt Eventbridge schedule](gamedayeventbridgescheduled.png?raw=true "Eventbridge schedule")
+
+![Alt Email Update with NBA data](gamedayemailupdate.png?raw=true "Email update with NBA data")
+
