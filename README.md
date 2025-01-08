@@ -5,6 +5,14 @@ This project is an alert system that sends real-time NBA game day score notifica
 
 ---
 
+### Screenshots
+
+![Alt Eventbridge schedule](gamedayeventbridgescheduled.png?raw=true "Eventbridge schedule")
+
+![Alt Email Update with NBA data](gamedayemailupdate.png?raw=true "Email update with NBA data")
+
+
+
 ## **Features**
 - Fetches live NBA game scores using an external API.
 - Sends formatted score updates to subscribers via SMS/Email using Amazon SNS.
@@ -141,10 +149,4 @@ cd game-day-notifications
 
 
 ### Added Terraform Code to setup SNS
-
-### Screenshots
-
-![Alt Eventbridge schedule](gamedayeventbridgescheduled.png?raw=true "Eventbridge schedule")
-
-![Alt Email Update with NBA data](gamedayemailupdate.png?raw=true "Email update with NBA data")
 
