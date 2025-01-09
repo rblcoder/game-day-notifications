@@ -7,7 +7,11 @@ This project is an alert system that sends real-time NBA game day score notifica
 
 ### Screenshots
 
+EventBridge schedule to run the Lambda function
+
 ![Alt Eventbridge schedule](gamedayeventbridgescheduled.png?raw=true "Eventbridge schedule")
+
+Email update with NBA data
 
 ![Alt Email Update with NBA data](gamedayemailupdate.png?raw=true "Email update with NBA data")
 
